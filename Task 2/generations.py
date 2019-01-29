@@ -1,4 +1,4 @@
-from cryptotools.btctools import *
+from btctools import *
 
 
 def generate_private_address(private_hex):
